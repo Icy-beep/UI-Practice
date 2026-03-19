@@ -1,9 +1,9 @@
 import customtkinter as ctk
 from tkinter import messagebox
-from sign_up_app.constants import *
-from sign_up_app.localization import *
-from sign_up_app.styles import *
-from sign_up_app.helpers import try_find_unique_fonts
+from sign_up_app.sign_up_app_logic.constants import *
+from sign_up_app.sign_up_app_logic.localization import *
+from sign_up_app.sign_up_app_logic.styles import *
+from sign_up_app.sign_up_app_logic.helpers import try_find_unique_fonts
 
 
 class App(ctk.CTk):
