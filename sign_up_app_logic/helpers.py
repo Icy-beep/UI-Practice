@@ -1,4 +1,4 @@
-from sign_up_app.sign_up_app_logic.styles import FONT
+from sign_up_app_logic.styles import FONT
 import tkinter.font
 
 

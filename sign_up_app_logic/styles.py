@@ -1,4 +1,4 @@
-from sign_up_app.sign_up_app_logic.constants import SOFT_FONT, SYSTEM_FONT, CLEAN_FONT, ELEGANT_FONT, COMIC_FONT
+from sign_up_app_logic.constants import SOFT_FONT, SYSTEM_FONT, CLEAN_FONT, ELEGANT_FONT, COMIC_FONT
 
 ENTRY_PADDING = {
     "pady": 10,
